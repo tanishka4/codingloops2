@@ -1,0 +1,7 @@
+#to print all positive intergers in a range
+
+list1 = [12,-3,45,-5,10,9]
+
+for num in list1:
+    if num >= 0:
+        print(num, end = " ")
